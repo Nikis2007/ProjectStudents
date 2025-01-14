@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectStudents:jar">
+    <output-path>$USER_HOME$/artifacts/ProjectStudents_jar</output-path>
+    <root id="archive" name="ProjectStudents.jar">
+      <element id="module-output" name="ProjectStudents" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/heroes_task_lib-1.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/asset-v1_SkillFactory+MIFIDEV+SEP2024+type@asset+block@3._history_task_lib_архив_проекта.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Heroes Battle-1.0.0" />
+      <element id="library" level="project" name="asset-v1_SkillFactory+MIFIDEV+SEP2024+type@asset+block@3._history_task_lib_архив_проекта" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/heroes_task_lib-1.0-SNAPSHOT.jar" />
+      <element id="dir-copy" path="$PROJECT_DIR$/.." />
+      <element id="dir-copy" path="$USER_HOME$/heroes_task" />
+    </root>
+  </artifact>
+</component>
